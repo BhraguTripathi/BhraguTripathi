@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhraguTripathi
-- 👀 I’m interested in Programming and Astrology
-- 🌱 I’m currently learning Python and html & css
+- 👀 I’m interested in Cloud Computing ans Software Development
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on making projects to learn more and more.
 - 📫 How to reach me in Instagram : bhragutripathi_03 and LinkedIn : https://www.linkedin.com/in/bhragu-tripathi
 
