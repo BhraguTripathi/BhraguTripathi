@@ -65,13 +65,12 @@
 ## 📈 My GitHub Stats
 
 <div align="center">
-
-![Bhragu’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhragutripathi&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhragutripathi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=bhragutripathi&color=blue)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=bhragutripathi&show_icons=true&theme=radical&cache_seconds=1800" alt="Bhragu's GitHub Stats"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=bhragutripathi&theme=radical" alt="GitHub Streak"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhragutripathi&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
+<img src="https://komarev.com/ghpvc/?username=bhragutripathi&color=blue" alt="Profile Views"/>
 
 ---
