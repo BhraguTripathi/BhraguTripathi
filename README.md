@@ -65,12 +65,18 @@
 ## 📈 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhragutripathi&show_icons=true&theme=radical&cache_seconds=1800" alt="Bhragu's GitHub Stats"/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=bhragutripathi&theme=radical" alt="GitHub Streak"/>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhragutripathi&layout=compact&theme=radical" alt="Top Languages"/>
+
+### 🔷 GitHub Overview
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhragutripathi&theme=radical" alt="GitHub Profile Summary"/>
+
+### 🔷 Top Languages
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhragutripathi&theme=radical" height="150" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhragutripathi&theme=radical" height="150" alt="Most Used Language"/>
+
+### 🔷 GitHub Activity
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhragutripathi&theme=radical" height="150" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhragutripathi&theme=radical&utcOffset=5.5" height="150" alt="Productive Time"/>
+
 </div>
-<img src="https://komarev.com/ghpvc/?username=bhragutripathi&color=blue" alt="Profile Views"/>
 
 ---
