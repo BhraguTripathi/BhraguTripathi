@@ -1,13 +1,13 @@
 # 👋 Hello, I’m **Bhragu Tripathi**
 
-### 🌟 *Computer Science & Engineering Student | Aspiring SDE & Cloud Architect | Tech & Cloud Enthusiast*
+### 🌟 *Computer Science & Engineering Student | Aspiring Android Developer & Cloud Engineer | Android & Cloud Enthusiast*
 
 ---
 
 ## 📌 About Me
 
 - 🎓 Currently pursuing **B.Tech in Computer Science & Engineering**.
-- 💡 Passionate about **software development**, **cloud computing**, and building **smart, AI-powered solutions**.
+- 💡 Passionate about **android development**, **cloud computing**, and building **smart, AI-powered solutions**.
 - 🚀 I enjoy learning by building — exploring technologies through real-world, impactful projects.
 - 🤝 Always open to collaborations, new ideas, and learning opportunities.
 
@@ -42,9 +42,9 @@
 
 ## 🎯 Goals
 
-✅ Build a strong foundation as a **Software Development Engineer (SDE)**  
+✅ Build a strong foundation as a **Android Development Engineer**  
 ✅ Develop and deploy **cloud-native & AI-based applications**  
-✅ Master cloud computing and become a **Cloud Architect**  
+✅ Master cloud computing and become a **Cloud Engineer**  
 ✅ Contribute to open-source and collaborate with developers worldwide  
 
 ---
