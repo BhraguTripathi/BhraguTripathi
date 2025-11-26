@@ -88,5 +88,5 @@
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/BhraguTripathi">Bhragu Tripathi</a>
+  💕 From <a href="https://github.com/BhraguTripathi">Bhragu Tripathi</a>
 </p>
