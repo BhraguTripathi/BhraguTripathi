@@ -32,11 +32,11 @@
 
 ## 📊 Currently Learning
 
+- 💻 **Kotlin programming for Android & backend development**
 - ☁️ AWS (EC2, S3, IAM, Elastic Beanstalk…)
 - 🖥️ Virtualization & Cloud Orchestration (Apache CloudStack, VMware, NFS)
 - 🧑‍💻 Advanced Java & Data Structures
 - 🧠 AI-powered chatbots & web applications
-- 💻 **Kotlin programming for Android & backend development**
 
 ---
 
