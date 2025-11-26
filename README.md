@@ -1,8 +1,5 @@
 # 👋 Hello, I'm **Bhragu Tripathi**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhragutripathi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
 
 ### 🌟 *Computer Science & Engineering Student | Aspiring Android Developer & Cloud Engineer | Android & Cloud Enthusiast*
 
@@ -83,5 +80,9 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhragutripathi&theme=radical&utcOffset=5.5" height="150" alt="Productive Time"/>
 
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhragutripathi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
 ---
