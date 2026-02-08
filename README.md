@@ -55,7 +55,7 @@
 
 - ✉️ Email: [tripathibhragu@gmail.com](mailto:tripathibhragu@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/bhragu-tripathi](https://www.linkedin.com/in/bhragu-tripathi/)
-- 🌐 Portfolio: [bhragutripathi.github.io/Portfolio/](https://bhragutripathi.github.io/Portfolio/)
+- 🌐 Portfolio: [bhragutripathi.github.io/Portfolio/](https://bhragutripathi.github.io/BhraguTripathi_Portfolio/)
 
 ---
 
